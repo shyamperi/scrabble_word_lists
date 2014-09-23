@@ -1,3 +1,4 @@
+require 'scraperwiki'
 require 'spreadsheet'           
 require 'open-uri'
 require 'mechanize'
